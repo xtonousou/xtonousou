@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://xtonousou.xyz">
+	<a href="https://xtonousou.com">
 		<img alt="xtonousou's github stats" src="https://github-readme-stats.vercel.app/api?username=xtonousou&amp;show_icons=true&amp;theme=blue-green"/>
 	</a>
 	<!--
